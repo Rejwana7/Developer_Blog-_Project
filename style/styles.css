@@ -246,4 +246,61 @@ opacity: 0.5;
     
     margin-left: 30px;
 }
+/* card section end */
+/* inspiration section start */
+.inspiration-container{
+    /* border:5px solid green; */
+    width:100%;
+    /* width:1280px; */
+    /* margin: 0 auto;
+    /* display: flex; */
+    /* flex-direction: column;
+    justify-content: center;
+    align-items: center;  */
+}
+.inspiration-content{
+    width:80%;
+    /* width:1280px; */
+    margin: 20px auto;
+    display: flex;
+     flex-direction: column; 
+    justify-content: center;
+    align-items: center;
+      }
+
+.inspiration-title{
+    color: rgb(13, 19, 33);
+
+font-size: 25px;
+font-weight: 800;
+line-height: 27px;
+letter-spacing: 0%;
+text-align: center;
+} 
+.inspiration-subtitle {
+    color: rgb(13, 19, 33);
+font-family: Azeret Mono;
+font-size: 14px;
+font-weight: 400;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: center;
+opacity: 0.6;
+}
+
+.inspiration-video{
+    border:1px solid whitesmoke;
+    border-radius: 26px;
+    box-sizing: border-box;
+    margin-top: 24px;
+   
+    width:1000px;
+    text-align: center;
+   
+}
+iframe{
+   width:760px;
+    }
+
+    /*  inspiration section end*/
 
