@@ -432,3 +432,71 @@ opacity: 0.5;
 }
 
 /* target section end */
+
+
+/* next target section start */
+/* .next-target-container{
+     border:5px solid green; 
+} */
+.next-target-description{
+    /* border:3px solid red; */
+    margin-top: 30px;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    align-items: center;
+  
+}
+.next-target-title{
+    color: rgb(13, 19, 33);
+
+font-size: 16px;
+font-weight: 800;
+line-height: 26px;
+letter-spacing: 0%;
+text-align: left;
+}
+
+.next-target-subtitle{
+    color: rgb(13, 19, 33);
+
+    font-size: 16px;
+    font-weight: 400;
+    line-height: 26px;
+    letter-spacing: 0%;
+    text-align: left;
+    opacity: 0.5;
+}
+.react-card{
+     border: 1px solid rgba(0, 0, 0, 0.214); 
+     border-radius: 18px;
+     box-sizing: border-box;
+     border: 1px solid rgba(13, 19, 33, 0.15);
+
+     background: rgb(255, 255, 255);
+    margin-top: 50px;
+     display: flex;
+    justify-content: space-between; 
+    align-items: center;
+    width:80%;
+    margin:30px auto;
+    padding: 30px;
+
+}
+.react-para h2{
+   padding-left: 15px;
+    margin-left: 15px;
+}
+.react-para p{
+    /* border: 2px solid skyblue; */
+    /* margin-top: 10px auto; */
+    font-size: 20px;
+    padding-left: 15px;
+    margin-left: 15px;
+}
+
+ .react-image img{
+    height:50px;
+
+} 
+/* next target end */
