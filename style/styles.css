@@ -300,6 +300,7 @@ opacity: 0.6;
 }
 iframe{
    width:760px;
+   border-radius: 25px;
     }
 
     /*  inspiration section end*/
